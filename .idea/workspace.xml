@@ -1,7 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="943720d8-831e-4e16-a7a9-a83bfbde9bc5" name="Default" comment="" />
+    <list default="true" id="943720d8-831e-4e16-a7a9-a83bfbde9bc5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv_cleaner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv_extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge_base_headphone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge_base_tv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/headphones_labelled_entities.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/knowledgebaseextractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/tvs_labelled_entities.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Agiw1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Agiw1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/102.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/103.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/104.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/105.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/41.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/42.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/43.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/44.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/45.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/46.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/47.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/48.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/49.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/51.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/52.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/53.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/54.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/55.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/56.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/57.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/58.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/59.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/62.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/63.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/64.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/65.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/66.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/67.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/68.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/69.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/71.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/72.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/73.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/74.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/75.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/76.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/77.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/78.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/79.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/81.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/82.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/84.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/85.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/86.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/87.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/88.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/89.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/91.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/92.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/93.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/94.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/95.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/96.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/97.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/98.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save_in_Json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table_Extraction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table_Extraction1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au.shopping.com1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au.shopping.com2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au.shopping.com3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au.shopping.com4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au.shopping.com5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleanedurls.json" beforeDir="false" afterPath="$PROJECT_DIR$/cleanedurls_headphone.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,25 +141,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Agiw2018$knowledgebaseextractor.coverage" NAME="knowledgebaseextractor Coverage Results" MODIFIED="1531473529828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/Agiw2018$output_main.coverage" NAME="output_main Coverage Results" MODIFIED="1531661503868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Agiw2018$csv_cleaner.coverage" NAME="csv_cleaner Coverage Results" MODIFIED="1531654480448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Agiw2018$Table_Extraction1.coverage" NAME="Table_Extraction1 Coverage Results" MODIFIED="1531659482985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Table_Extraction.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Table_Extraction.py">
+      <file leaf-file-name="csv_extractor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/csv_extractor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="146" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Table_Extraction1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Table_Extraction1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="-640">
+              <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -35,10 +161,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cleanedurls.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanedurls.json">
+      <file leaf-file-name="csv_cleaner.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csv_cleaner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18315" />
+            <state relative-caret-position="220">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/headphone_specs/www.ccisolutions.com/1.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="1.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/headphone_csv/www.ccisolutions.com/1.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_csv.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/headphone_csv/www.ccisolutions.com/index_csv.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="64" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -52,46 +218,82 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.csv</find>
+      <find>knowledge_base_headphone.json</find>
+      <find>table_atts</find>
+      <find>headphones_form_factor</find>
+      <find>compatibility</find>
+      <find>headphone</find>
+      <find>features</find>
+    </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Save_in_Json.py" />
         <option value="$PROJECT_DIR$/Table_Extraction.py" />
+        <option value="$PROJECT_DIR$/training/knowledgebaseextractor.py" />
         <option value="$PROJECT_DIR$/Table_Extraction1.py" />
+        <option value="$PROJECT_DIR$/cleanedurls_tv.json" />
+        <option value="$PROJECT_DIR$/output_main.py" />
+        <option value="$PROJECT_DIR$/csv_cleaner.py" />
+        <option value="$PROJECT_DIR$/csv_extractor.py" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
-    <option name="width" value="885" />
-    <option name="height" value="913" />
+    <option name="width" value="1853" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Agiw1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Agiw1" type="462c0819:PsiDirectoryNode" />
+              <item name="Agiw2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Agiw2018" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTMLExtractor" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Table_Extraction1">
+  <component name="RunManager" selected="Python.output_main">
     <configuration name="Table_Extraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Agiw1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,6 +320,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Table_Extraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -136,7 +339,65 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Table_Extraction1.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv_extractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="csv_cleaner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Agiw1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv_cleaner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="knowledgebaseextractor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Agiw1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training/knowledgebaseextractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="output_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Agiw1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/output_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,10 +406,16 @@
     <list>
       <item itemvalue="Python.Table_Extraction" />
       <item itemvalue="Python.Table_Extraction1" />
+      <item itemvalue="Python.knowledgebaseextractor" />
+      <item itemvalue="Python.csv_cleaner" />
+      <item itemvalue="Python.output_main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.output_main" />
         <item itemvalue="Python.Table_Extraction1" />
+        <item itemvalue="Python.csv_cleaner" />
+        <item itemvalue="Python.knowledgebaseextractor" />
         <item itemvalue="Python.Table_Extraction" />
       </list>
     </recent_temporary>
@@ -167,133 +434,255 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="885" height="915" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24971752" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3345725" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="0" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.2831661" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.31772575" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2556724" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32826087" />
+      <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32881773" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.39910814" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Table_Extraction.py">
+    <entry file="file://$PROJECT_DIR$/headphone_csv/au.shopping.com/0.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/www.proaudiosuperstore.com/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/www.proaudiosuperstore.com/0.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/www.stoneaudio.co.uk/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/www.stoneaudio.co.uk/index.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanedurls_headphone.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="146" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="20">
+          <caret line="7" column="137" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="137" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Table_Extraction1.py">
+    <entry file="file://$PROJECT_DIR$/cleanedurls_tv.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="805">
+          <caret line="1221" column="122" selection-start-line="1221" selection-start-column="122" selection-end-line="1221" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge_base_tv.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/www.proaudiosuperstore.com/1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/knowledgebaseextractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/au.shopping.com/5.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/au.shopping.com/10.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/au.shopping.com/2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/au.shopping.com/11.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/au.shopping.com/index_csv.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/www.stoneaudio.co.uk/1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/www.123dj.com/1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/www.123dj.com/2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/stoneaudio.co.uk/index_csv.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tv_csv/alatest.co.uk/0.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/au.shopping.com/3.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/au.shopping.com/4.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/au.shopping.com/5.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/au.shopping.com/6.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/au.shopping.com/7.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge_base_headphone.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1748">
+          <caret line="526" column="10" selection-start-line="526" selection-start-column="10" selection-end-line="526" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/au.shopping.com/1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1960">
+          <caret line="98" column="40" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_cleaner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Table_Extraction.py">
+    <entry file="file://$PROJECT_DIR$/headphone_csv/stoneaudio.co.uk/1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/stoneaudio.co.uk/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/salestores.com/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/fr.shopping.com/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/pe.traetelo.com/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/au.shopping.com/2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_specs/au.shopping.com/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="146" />
+        <state relative-caret-position="140">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Table_Extraction1.py">
+    <entry file="file://$PROJECT_DIR$/headphone_csv/salestores.com/1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headphone_csv/www.ccisolutions.com/index_csv.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Table_Extraction.py">
+    <entry file="file://$PROJECT_DIR$/headphone_csv/www.ccisolutions.com/1.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="146" selection-start-line="12" selection-start-column="146" selection-end-line="12" selection-end-column="146" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="160">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aushopping1.csv" />
-    <entry file="file://$PROJECT_DIR$/au_shopping_com.json.json" />
-    <entry file="file://$PROJECT_DIR$/au_shopping_com.json" />
-    <entry file="file://$PROJECT_DIR$/Save_in_Json.py">
+    <entry file="file://$PROJECT_DIR$/headphone_specs/www.ccisolutions.com/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tv_csv/ksa-price.com/0.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="4560">
+          <caret line="228" column="11" lean-forward="true" selection-start-line="228" selection-start-column="11" selection-end-line="228" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/au_shopping_com" />
-    <entry file="file://$PROJECT_DIR$/aushopping1.csv" />
-    <entry file="file://$PROJECT_DIR$/prova" />
-    <entry file="file://$PROJECT_DIR$/prova.csv" />
-    <entry file="file://$PROJECT_DIR$/au.shopping.com2.csv">
+    <entry file="file://$PROJECT_DIR$/tv_specs/ksa-price.com/1.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/au.shopping.com3.csv">
+    <entry file="file://$PROJECT_DIR$/tv_specs/livehotdeals.com/1.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/au.shopping.com4.csv">
+    <entry file="file://$PROJECT_DIR$/tv_specs/myoemparts.com/1.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/au.shopping.com5.csv">
+    <entry file="file://$PROJECT_DIR$/tv_csv/livehotdeals.com/0.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/au.shopping.com1.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanedurls.json">
+    <entry file="file://$PROJECT_DIR$/tv_csv/myoemparts.com/0.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18315" />
+        <state relative-caret-position="-6145" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Table_Extraction.py">
+    <entry file="file://$PROJECT_DIR$/tv_specs/products.compsource.com/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tv_csv/products.compsource.com/0.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="146" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-240" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Table_Extraction1.py">
+    <entry file="file://$PROJECT_DIR$/tv_specs/toptenreviewstvreviewstoptenrev.weebly.com/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_extractor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="-640">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

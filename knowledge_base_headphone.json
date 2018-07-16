@@ -1,0 +1,900 @@
+{
+    "table_atts": {
+        "condition": [
+            "New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller's listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition",
+            "New: A brand-new, unused, unopened, undamaged item (including handmade items). See the seller's listing for full details.",
+            "New",
+            "Used: An item that has been used previously. The item may have some signs of cosmetic wear, but is fully operational and functions as intended. This item may be a floor model or store return that has been used. See the seller\u2019s listing for full details and description of any imperfections. See all condition definitions- opens in a new window or tab ... Read moreabout the condition",
+            "New other (see details): A new, unused item with absolutely no signs of wear. The item may be missing the original packaging, or in the original packaging but not sealed. The item may be a factory second or a new, unused item with defects.\ufffdSee the seller\u2019s listing for full details and description of any imperfections. See all condition definitions- opens in a new window or tab ... Read moreabout the condition"
+        ],
+        "brand": [
+            "AKG",
+            "Audio-Technica",
+            "Sennheiser",
+            "Shure",
+            "Unbranded",
+            "Audio Technica",
+            "SENNHEISER",
+            "Universal"
+        ],
+        "mpn": [
+            "Does Not Apply",
+            "M50x",
+            "9969",
+            "SE215",
+            "SE215-CL",
+            "SE215-K",
+            "SE425",
+            "SE425-CL",
+            "100227",
+            "ATH-M50xDG",
+            "ATH-M50x",
+            "MOMM2AEIBRN",
+            "4324",
+            "M2AEGIVORY",
+            "SRH440",
+            "K712 PRO",
+            "SE215SPE",
+            "N/A",
+            "(2) ATH-M50X+HP4"
+        ],
+        "headphones_cup_type": [
+            "Open-air type",
+            "In-Ear only",
+            "Earbud (In Ear)",
+            "Ear-Pad (On the Ear)",
+            "Double"
+        ],
+        "product_gtin": [
+            "does not apply",
+            "Does not apply",
+            "615104099692",
+            "Does Not Apply",
+            "042406196956",
+            "615104270350",
+            "042406168601",
+            "9002761035681",
+            "613815629788",
+            "042406171908"
+        ],
+        "upc": [
+            "does not apply"
+        ],
+        "product_code": [
+            "Does Not Apply",
+            "00615104099692"
+        ],
+        "color": [
+            "Black",
+            "Black/Red",
+            "BLACK / BROWN",
+            "Ivory",
+            "Clear",
+            "Dark Green",
+            "Blue",
+            "Silver"
+        ],
+        "model": [
+            "HD 650",
+            "SE215",
+            "SE425",
+            "M2 IEi",
+            "ATH-M50xDG",
+            "ATH-M50x",
+            "MOMENTUM M2 (OEI)",
+            "M2AEGIVORY",
+            "SRH440",
+            "K 712 Pro",
+            "SE215SPE",
+            "M50x",
+            "(2) ATH-M50X+HP4"
+        ],
+        "additional_features": [
+            "Open Back, Noise Cancellation, Detachable Cable",
+            "Coiled Cable",
+            "Adjustable Headband, Closed Back, Detachable Cable, Noise Isolation, Replacable Earpads, Stereo",
+            "Detachable Cable, Noise Isolation, Playback Controls, Volume Control",
+            "Noise Isolation, Detachable Cable",
+            "Noise Isolation, Detachable Cable, Closed Back, Adjustable Headband, Rotating Ear Cups",
+            "Adjustable Headband",
+            "Detachable Cable, Open Back",
+            "Detachable Cable, Replaceble Ear Tips",
+            "Closed Back, Coiled Cable, Detachable Cable, Extra-Long Cable, Foldable, Noise Isolation",
+            "Noise Isolation, With Volume Control, Detachable Cable"
+        ],
+        "warranty": [
+            "1 Year Seller Warranty"
+        ],
+        "impedance": [
+            "300 ohms",
+            "20 ohms",
+            "44 ohms",
+            "62 O",
+            "62 ohms",
+            "38ohm"
+        ],
+        "sensitivity": [
+            "103 dB",
+            "105 dB/V",
+            "107 dB",
+            "105 dB"
+        ],
+        "compatibility": [
+            "Consumer Headphones, Studio/Live Monitoring Headphones",
+            "Universal",
+            "Consumer Headphones",
+            "Studio/Live Monitoring Headphones"
+        ],
+        "connectivity_technology": [
+            "3.5mm Jack",
+            "Wired"
+        ],
+        "headphones_form_factor": [
+            "In-Ear only",
+            "Headband",
+            "In-Ear Only",
+            "In-Ear Monitors/IEMs",
+            "Earbud (In Ear)",
+            "Full-Size Headphones"
+        ],
+        "included_accessories": [
+            "Carrying Case, Replacement Cable",
+            "Carry Bag/Case, Extension Cable",
+            "Carrying Case",
+            "Carry Bag/Case",
+            "Carrying Case,TRS 1/4\" Adapter"
+        ],
+        "error": [
+            "error"
+        ],
+        "weight": [
+            "1.6",
+            "8.3 oz (235 g)"
+        ],
+        "units": [
+            "1"
+        ],
+        "origin_components": [
+            "USA and/or Imported"
+        ],
+        "origin_assembly": [
+            "USA and/or Imported",
+            "Ireland"
+        ],
+        "has_warranty": [
+            "Y"
+        ],
+        "package_weight": [
+            "1.6"
+        ],
+        "dimensions": [
+            "1.0 x 1.0 x 1.0"
+        ],
+        "jack_plug": [
+            "3.5mm (1/8in.)",
+            "Gold-plated stereo jack 1/8\" (3.5 mm) to 1/4\" (6.3 mm)",
+            "6.3mm (1/4in.)",
+            "3.5mm Jack"
+        ],
+        "headphone_use": [
+            "Live Monitoring",
+            "Studio/Live Monitoring Headphones",
+            "Consumer Headphones, Studio/Live Monitoring Headphones",
+            "Consumer Headphones",
+            "Studio/Live Monitoring"
+        ],
+        "min_frequency": [
+            "15Hz"
+        ],
+        "max_frequency": [
+            "20kHz",
+            "28kHz"
+        ],
+        "sound_pressure_level": [
+            "107 dB",
+            "105 dB",
+            "103 dB"
+        ],
+        "headphones_technology": [
+            "Open-back dynamic"
+        ],
+        "frequency_response": [
+            "10 Hz to 39.8 kHz"
+        ],
+        "max_input_power": [
+            "200 mW"
+        ],
+        "cable_length": [
+            "Detachable, 9' (3 m), single sided"
+        ],
+        "height": [
+            "9.50"
+        ],
+        "width": [
+            "4.50"
+        ]
+    },
+    "list_atts": {
+        "headphones_cup_type": [
+            "Ear pads around the ear, removable, made of velor",
+            "In-Ear only",
+            "Circumaural",
+            "In-Ear",
+            "open"
+        ],
+        "sensitivity": [
+            "(1kHz) 93dB SPL / mW",
+            "103dB (1 Vrms)",
+            "103dB(1 Vrms)",
+            "107 dB SPL/mW",
+            "109 dB SPL/mW",
+            "102 dB (1 Vrms)",
+            "118dB",
+            "123dB",
+            "105 dB SPL/V",
+            "-44dB V/Pa (1kHz)",
+            "- 44 dB V/Pa",
+            "99 dB/mW"
+        ],
+        "frequency_response": [
+            "10Hz~39.8kHz",
+            "10 Hz-39.5 kHz (-10dB)",
+            "10 Hz - 39.5 kHz (-10 dB)",
+            "22 Hz - 17.5 kHz",
+            "20 Hz - 19 kHz",
+            "10 \u2013 39,500 Hz (\u2013 10 dB), 16 \u2013 30,000 Hz (\u2013 3 dB)",
+            "10 - 39500 Hz",
+            "8-25000Hz",
+            "bandwidth  10 to 39800 Hz",
+            "Narrowband: 300 - 3,400Hz (Article No. 506381)",
+            "16 Hz - 22000 Hz",
+            "16Hz - 22000Hz",
+            "15 ~ 28,000Hz"
+        ],
+        "max_input_power": [
+            "200mW",
+            "200 mW",
+            "500 mW as per EN 60-268-7",
+            "1,600mW @ 1kHz"
+        ],
+        "impedance": [
+            "62O",
+            "300 Ohms",
+            "20 O",
+            "22 O",
+            "300 ?",
+            "300 ohms",
+            "18 Ohms",
+            "9O",
+            "62 Ohms",
+            "300 O",
+            "active: 480 O (Article No. 506381)",
+            "active: 480 O (Article No. 506252)",
+            "18 O",
+            "38 O"
+        ],
+        "3.5mm_jack": [
+            "yes"
+        ],
+        "cables_included": [
+            "Cable detachable and out pieces",
+            "Detachable cables with formable wire",
+            "Kevlar strengthened oxygen-free copper (OFC), 3 m",
+            "Flat"
+        ],
+        "weight": [
+            "298g (except cable)",
+            "9.2 oz (260g)",
+            "9.2 oz (260 g)",
+            "260 g",
+            "0.57lb (260 g)",
+            "0.56 oz (16g)",
+            "About 400 g",
+            "235 g",
+            "w/o cable: 260 g",
+            "2 lbs.",
+            "5.2 lbs.",
+            "1.8 lbs.",
+            "1",
+            "285 g (without cable and connector)"
+        ],
+        "included_accessories": [
+            "Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch",
+            "carrying case",
+            "Protective carrying pouch, \ufffd6.3 mm snap-on adapter"
+        ],
+        "product_type": [
+            "Open-Back, Circumaural Dynamic Headphones"
+        ],
+        "connectivity_technology": [
+            "Detachable 1/8\" Stereo Mini to 1/4\" Adapter 1/8\" Stereo Mini Plug",
+            "1/4 in. (6.3 mm) stereo jack plug",
+            "3.5mm",
+            "Wired"
+        ],
+        "cable_length": [
+            "10' (3 m), Detachable, Left and Right Side Connection",
+            "162 cm",
+            "4 ft (1.3 m.)",
+            "1.2m",
+            "3 m",
+            "3 m / sym\ufffdtrique /d\ufffdtachable",
+            "1.4 m (Detachable)",
+            "1.4m (Detachable)",
+            "Interchangeable cables: detachable 1.2 m - 3.0 m coiled cable, detachable 3.0 m straight cable and detachable 1.2 m straight cable"
+        ],
+        "condition": [
+            "Brand New",
+            "Brand",
+            "Open Box",
+            "New"
+        ],
+        "brand": [
+            "Shure",
+            "Audio-Technica"
+        ],
+        "color": [
+            "Black",
+            "Clear, translucent black",
+            "Clear, metallic silver",
+            "Available in clear and metallic silver",
+            "Gold",
+            "titan",
+            "black",
+            "Ivory",
+            "Brown"
+        ],
+        "model": [
+            "SE215",
+            "ATH-M50x"
+        ],
+        "mpn": [
+            "SE215-K",
+            "506250",
+            "506385",
+            "506394"
+        ],
+        "additional_features": [
+            "Noise Isolation, With Volume Control, Detachable Cable",
+            "NoiseGard\ufffd Hybrid technology with 4 pick-up microphones"
+        ],
+        "headphones_technology": [
+            "non-compliant",
+            "Dynamic MicroDriver",
+            "Dual High-Definition MicroDrivers",
+            "Circumaural",
+            "Open-Back, Circumaural Dynamic Headphones",
+            "Dynamic, open",
+            "Noise Cancelling",
+            "dynamic, open",
+            "Dynamic, Closed",
+            "Dynamic, closed",
+            "Closed-back dynamic"
+        ],
+        "sound_output_mode": [
+            "non-compliant"
+        ],
+        "frequency_characteristic": [
+            "diffuse field equalized"
+        ],
+        "thd": [
+            "=0.05 %",
+            "0.05%",
+            "< 0,05 %",
+            "<0.5%"
+        ],
+        "contact_pressure": [
+            "approx. 3.4 N (\ufffd 0.3 N)",
+            "ca. 2,5 N",
+            "Approx. 3.6 N",
+            "Approx. 3.2 N"
+        ],
+        "audio_interface_type": [
+            "1/4 in., 3.5 mm stereo jack",
+            "Detachable 1/8\" Stereo Mini to 1/4\" Adapter 1/8\" Stereo Mini Plug",
+            "Screw-on Jack Combo (1/4\" and 1/8\")"
+        ],
+        "sound_pressure_level": [
+            "103 dB",
+            "111 dB (Passive: 1 kHz/1 Vrms)",
+            "113dB (1 kHz/1 Vrms)"
+        ],
+        "jack_plug": [
+            "1/4\" / 1/8\" (3.5/6.3 mm) stereo",
+            "1/8\" (3.5xmm)",
+            "L Bending",
+            "Jack 6,35 mm st\ufffdr\ufffdo plaqu\ufffd or",
+            "3.5 mm, angled",
+            "3.5mm angled",
+            "3.5mm straight"
+        ],
+        "microphone_audio_details": [
+            "Omni-Directional"
+        ],
+        "with_package": [
+            "No"
+        ],
+        "headphone_use": [
+            "Portable Media Player"
+        ],
+        "is_wireless": [
+            "No"
+        ],
+        "with_microphone": [
+            "No"
+        ],
+        "is_customized": [
+            "no"
+        ],
+        "detachable_cable": [
+            "yes"
+        ],
+        "gender": [
+            "Male"
+        ],
+        "contacts": [
+            "3-pin"
+        ],
+        "package_weight": [
+            "1.0",
+            "2.0",
+            "3.0",
+            "6.0",
+            "1.39",
+            "1.85"
+        ],
+        "headphones_form_factor": [
+            "Headband",
+            "Circumaural",
+            "Supraaural",
+            "Ear-Cup (Over the Ear)"
+        ],
+        "tagline": [
+            "1 Year Manufacturer Warranty"
+        ],
+        "pick-up_pattern": [
+            "Dual omni-directional microphone (2 mic beamforming array)",
+            "Omni-directional"
+        ],
+        "bluetooth_type": [
+            "Bluetooth 4.0 + EDR"
+        ],
+        "supported_profiles": [
+            "A2DP + AVRCP + HSP + HFP"
+        ],
+        "attenuation": [
+            "Up to 25dB",
+            "Up to 20dB"
+        ],
+        "charging_time": [
+            "Approx. 3 hrs"
+        ],
+        "operating_time": [
+            "22hrs (HFP + ANC)"
+        ],
+        "battery_type": [
+            "Rechargeable Lithium-ion Polymer (600mAh)"
+        ],
+        "codecs": [
+            "apt-X\ufffd"
+        ],
+        "microphone_response": [
+            "Narrowband: 300 - 3,400Hz (Article No. 506252)"
+        ],
+        "product_code": [
+            "506252"
+        ],
+        "units": [
+            "1"
+        ],
+        "dimensions": [
+            "1.0 x 1.0 x 1.0"
+        ],
+        "diaphragm": [
+            "45 mm"
+        ],
+        "magnet_material": [
+            "Neodymium / CCAW coil"
+        ]
+    },
+    "atts_map": {
+        "Earpiece Design": [
+            "headphones_cup_type",
+            "headphones_form_factor"
+        ],
+        "Condition": [
+            "condition"
+        ],
+        "MPN": [
+            "mpn",
+            "model"
+        ],
+        "Brand": [
+            "brand"
+        ],
+        "UPC": [
+            "product_gtin"
+        ],
+        "Sensitivity": [
+            "sensitivity",
+            "sound_pressure_level"
+        ],
+        "Warranty": [
+            "warranty"
+        ],
+        "Color": [
+            "color"
+        ],
+        "Model": [
+            "model"
+        ],
+        "Features": [
+            "additional_features",
+            "headphones_form_factor"
+        ],
+        "Impedance": [
+            "impedance"
+        ],
+        "Compatibility": [
+            "compatibility",
+            "headphone_use"
+        ],
+        "Connectors": [
+            "connectivity_technology"
+        ],
+        "Frequency Range": [
+            "frequency_response"
+        ],
+        "EAN": [
+            "product_code",
+            "product_gtin"
+        ],
+        "Maximum Input Power": [
+            "max_input_power"
+        ],
+        "Cable Length": [
+            "cable_length"
+        ],
+        "type": [
+            "product_type"
+        ],
+        "Weight": [
+            "weight"
+        ],
+        "model": [
+            "a"
+        ],
+        "Type": [
+            "product_type",
+            "headphones_technology",
+            "headphones_form_factor"
+        ],
+        "connectors": [
+            "connectivity_technology",
+            "audio_interface_type"
+        ],
+        "Maximum_Input_Power": [
+            "max_input_power"
+        ],
+        "Noise canceling": [
+            "headphones_technology"
+        ],
+        "Surround": [
+            "sound_output_mode"
+        ],
+        "Fit Design": [
+            "headphones_cup_type",
+            "headphones_form_factor"
+        ],
+        "Manufacturer's part Number": [
+            "mpn"
+        ],
+        "Compatible Brand": [
+            "compatibility",
+            "brand"
+        ],
+        "Connector(s)": [
+            "connectivity_technology",
+            "jack_plug"
+        ],
+        "Earpiece": [
+            "headphones_cup_type"
+        ],
+        "Frequency range": [
+            "frequency_response"
+        ],
+        "Cable length": [
+            "cable_length"
+        ],
+        "Speaker type": [
+            "headphones_technology"
+        ],
+        "Sensitivity (1kHz)": [
+            "sensitivity"
+        ],
+        "Sensitivity(1 kHz)": [
+            "sensitivity"
+        ],
+        "Speaker Type": [
+            "headphones_technology"
+        ],
+        "Max. nominal continuous input power": [
+            "max_input_power"
+        ],
+        "Cable": [
+            "cables_included",
+            "cable_length"
+        ],
+        "Connector": [
+            "connectivity_technology",
+            "jack_plug"
+        ],
+        "Nominal impedance": [
+            "impedance"
+        ],
+        "Frequency Characteristic": [
+            "frequency_characteristic"
+        ],
+        "Total harmonic distortion": [
+            "thd"
+        ],
+        "Characteristic sound pressure level (at 1 kHz)": [
+            "sensitivity"
+        ],
+        "Ear Coupling": [
+            "headphones_technology"
+        ],
+        "Frequency Response": [
+            "frequency_response"
+        ],
+        "Transducer Principle": [
+            "headphones_technology"
+        ],
+        "Adapter lead": [
+            "audio_interface_type"
+        ],
+        "Contact Pressure": [
+            "contact_pressure"
+        ],
+        "Weight (without cable)": [
+            "weight"
+        ],
+        "headphones_cup_type": [
+            "a"
+        ],
+        "headphones_use": [
+            "a"
+        ],
+        "Connectivity": [
+            "connectivity_technology"
+        ],
+        "Ear coupling": [
+            "headphones_cup_type",
+            "headphones_form_factor"
+        ],
+        "Sound pressure level (SPL)": [
+            "sound_pressure_level"
+        ],
+        "Frequency response": [
+            "frequency_response"
+        ],
+        "Contact pressure": [
+            "contact_pressure"
+        ],
+        "Transducer principle": [
+            "headphones_technology"
+        ],
+        "Jack plug": [
+            "jack_plug"
+        ],
+        "THD, total harmonic distortion": [
+            "thd"
+        ],
+        "Weight w/o cable": [
+            "weight"
+        ],
+        "Cable Type": [
+            "cables_included"
+        ],
+        "Cord Length": [
+            "cable_length"
+        ],
+        "Nominal Impedance": [
+            "impedance"
+        ],
+        "Pick-up Pattern": [
+            "microphone_audio_details"
+        ],
+        "Weight/Mass": [
+            "weight"
+        ],
+        "Frequency": [
+            "frequency_response"
+        ],
+        "Plug Size": [
+            "jack_plug"
+        ],
+        "Plug Type": [
+            "jack_plug"
+        ],
+        "Use": [
+            "headphone_use"
+        ],
+        "Model Number": [
+            "model"
+        ],
+        "Line Length": [
+            "cable_length"
+        ],
+        "Resistance": [
+            "impedance"
+        ],
+        "Function": [
+            "headphones_technology"
+        ],
+        "Is wireless": [
+            "is_wireless"
+        ],
+        "With Microphone": [
+            "with_microphone"
+        ],
+        "Style": [
+            "headphones_cup_type"
+        ],
+        "Package": [
+            "with_package"
+        ],
+        "Frequency Response Range": [
+            "frequency_response"
+        ],
+        "Communication": [
+            "connectivity_technology"
+        ],
+        "Bundled Items": [
+            "included_accessories"
+        ],
+        "Headphone type": [
+            "headphones_cup_type"
+        ],
+        "Audio Frequency": [
+            "frequency_response"
+        ],
+        "Gender": [
+            "gender"
+        ],
+        "Shipping Weight (in pounds)": [
+            "package_weight"
+        ],
+        "Detachable cable": [
+            "detachable_cable"
+        ],
+        "Rated Impedance": [
+            "impedance"
+        ],
+        "Audio InterfaceType": [
+            "audio_interface_type"
+        ],
+        "Sensitivity headphones": [
+            "sensitivity"
+        ],
+        "Contacts": [
+            "contacts"
+        ],
+        "Interface Finish": [
+            "color"
+        ],
+        "Max. Input Power": [
+            "max_input_power"
+        ],
+        "Net Weight": [
+            "weight"
+        ],
+        "Wearing style": [
+            "headphones_form_factor"
+        ],
+        "Frequency response (headphones)": [
+            "frequency_response"
+        ],
+        "Units Per Consumer Unit": [
+            "units"
+        ],
+        "Product in Inches (L x W x H)": [
+            "dimensions"
+        ],
+        "Assembled Product Weight": [
+            "weight"
+        ],
+        "Country Of Origin - Assembly": [
+            "origin_assembly"
+        ],
+        "Manufacturer Part Number": [
+            "mpn"
+        ],
+        "Warranty Text": [
+            "has_warranty"
+        ],
+        "Country Of Origin - Components": [
+            "origin_components"
+        ],
+        "Sensitivity as per 121 TR 9-5": [
+            "sensitivity"
+        ],
+        "Part Number": [
+            "mpn",
+            "product_code"
+        ],
+        "Supported Profiles": [
+            "supported_profiles"
+        ],
+        "Attenuation": [
+            "attenuation"
+        ],
+        "NoiseGard\ufffd noise compensation": [
+            "additional_features"
+        ],
+        "Operating time": [
+            "operating_time"
+        ],
+        "Codecs": [
+            "codecs"
+        ],
+        "Charging time": [
+            "charging_time"
+        ],
+        "Frequency response (microphone)": [
+            "frequency_response",
+            "microphone_response"
+        ],
+        "Pick-up pattern": [
+            "pick-up_pattern"
+        ],
+        "Battery Specification": [
+            "battery_type"
+        ],
+        "Bluetooth Version": [
+            "bluetooth_type"
+        ],
+        "Item Weight": [
+            "weight"
+        ],
+        "Load rating": [
+            "max_input_power"
+        ],
+        "Accessories Included": [
+            "included_accessories"
+        ],
+        "Maximum Frequency": [
+            "max_frequency"
+        ],
+        "Minimum Frequency": [
+            "min_frequency"
+        ],
+        "Suited For": [
+            "headphone_use"
+        ],
+        "Frequency Bandwidth": [
+            "frequency_response"
+        ],
+        "Magnet": [
+            "magnet_material"
+        ],
+        "Accessories Furnished": [
+            "included_accessories"
+        ],
+        "Driver Diameter": [
+            "diaphragm"
+        ],
+        "Country/Region of Manufacture": [
+            "origin_assembly"
+        ],
+        "Sensitivity (1 kHz)": [
+            "sensitivity"
+        ],
+        "Length": [
+            "width"
+        ],
+        "Height": [
+            "height"
+        ]
+    }
+}
